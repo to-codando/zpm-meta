@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "iares": "git@github.com:to-codando/iares-ui.git",
+    "fam-code-cms": "git@github.com:to-codando/fam-code-cms.git",
+    "fam-code-ui": "git@github.com:to-codando/fam-code-ui.git",
+    "app-site": "git@github.com:to-codando/app-site.git"
+  }
+}
