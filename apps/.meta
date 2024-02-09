@@ -1,8 +1,10 @@
 {
   "projects": {
-    "iares": "git@github.com:to-codando/iares-ui.git",
-    "fam-code-cms": "git@github.com:to-codando/fam-code-cms.git",
-    "fam-code-ui": "git@github.com:to-codando/fam-code-ui.git",
-    "app-site": "git@github.com:to-codando/app-site.git"
+    "z-one-ui": "git@github.com:to-codando/z-one-ui.git",
+    "z-user": "git@github.com:to-codando/z-user.git",
+    "z-project": "git@github.com:to-codando/z-project.git",
+    "z-task": "git@github.com:to-codando/z-task.git",
+    "z-router": "git@github.com:to-codando/z-router.git",
+    "iares": "git@github.com:to-codando/iares.git"
   }
 }
